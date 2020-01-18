@@ -1,4 +1,4 @@
-# about
+# about podStation
 
 This repository will contain general org-wide information about podStation.
 
